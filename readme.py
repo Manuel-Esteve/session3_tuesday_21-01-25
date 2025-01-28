@@ -1,5 +1,6 @@
-#Session 6
-##Input
-#Exceptions
-##IF
-#WHILE
+# Session 6
+## Input
+# Exceptions
+## IF
+# WHILE
+## FOR
